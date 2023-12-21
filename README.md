@@ -2,7 +2,7 @@
 
 ### About me
 
-- 📚 Curently studying Data Science in Henry
+- 📚 Curently studying Data Science at Henry
 - 🔍 Open to career oportunities in Data Science and Machine Learning
 - 🔭 Learning about Google Cloud Plattform and Tensorflow
 

@@ -1,6 +1,13 @@
-### Hi i'm Priscila 👋😃
+## Hi i'm Priscila 👋😃
 
 ### About me
+
+- 📚 Curently studying Data Science in Henry
+- 🔍 Open to career oportunities in Data Science and Machine Learning
+- 🔭 Learning about Google Cloud Plattform and Tensorflow
+
+📫 You can find me here 
+![Static Badge](https://img.shields.io/badge/Linkedin-blue)
 
 <!--
 **priscilamuniz/priscilamuniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
